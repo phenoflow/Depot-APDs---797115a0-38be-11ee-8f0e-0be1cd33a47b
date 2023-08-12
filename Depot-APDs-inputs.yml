@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/depot-apds-concentrate---primary.py
+inputModule3:
+  class: File
+  path: python/depot-apds-125mg---primary.py
+inputModule4:
+  class: File
+  path: python/depot-apds-clopixol---primary.py
+inputModule5:
+  class: File
+  path: python/depot-apds-200mg---primary.py
+inputModule6:
+  class: File
+  path: python/depot-apds-depixol---primary.py
+inputModule7:
+  class: File
+  path: python/depot-apds-150mg---primary.py
+inputModule8:
+  class: File
+  path: python/depot-apds-haldol---primary.py
+inputModule9:
+  class: File
+  path: python/depot-apds-zuclopenthixol---primary.py
+inputModule10:
+  class: File
+  path: python/depot-apds-500mg---primary.py
+inputModule11:
+  class: File
+  path: python/depot-apds-flupentixol---primary.py
+inputModule12:
+  class: File
+  path: python/depot-apds-fluphenazine---primary.py
+inputModule13:
+  class: File
+  path: python/depot-apds-haloperidol---primary.py
+inputModule14:
+  class: File
+  path: python/depot-apds-pipotiazine---primary.py
+inputModule15:
+  class: File
+  path: python/depot-apds-piportil---primary.py
+inputModule16:
+  class: File
+  path: python/solvent-depot-apds---primary.py
+inputModule17:
+  class: File
+  path: python/depot-apds-075ml---primary.py
+inputModule18:
+  class: File
+  path: python/depot-apds-paliperidone---primary.py
+inputModule19:
+  class: File
+  path: python/depot-apds-xeplion---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
